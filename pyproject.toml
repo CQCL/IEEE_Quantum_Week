@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "ieee-cqcl-tutorial-tket-qermit"
+version = "0.1.0"
+description = "TKET and Qermit Tutorial for the IEEE Quantum Week 2022"
+authors = []
+readme = "README.md"
+packages = []
+
+[tool.poetry.dependencies]
+python = ">=3.8,<3.12"
+pytket = "^1.6.1"
+pytket-qiskit = "^0.28.0"
+qermit = "^0.2.1"
+jupyter = "^1.0.0"
+pandas = "^1.5.0"
+seaborn = "^0.12.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
