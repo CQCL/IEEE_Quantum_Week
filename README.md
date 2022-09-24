@@ -3,6 +3,7 @@
 ## Presenters
 
 This turorial was given by:
+
 - Cristina Cirstoiu &rarr; <cristina.cirstoiu@quantinuum.com>
 - Dan Mills &rarr; <daniel.mills@quantinuum.com>
 
@@ -12,7 +13,19 @@ In this tutorial, we will introduce tools and techniques for developing experime
 
 ## Documentation and Code Availability
 
-Documentation for Qermit can be found at <qerm.it>, and for TKET at <https://cqcl.github.io/tket/pytket/api/index.html>. The respective manuals can be found at <https://cqcl.github.io/Qermit/manual/> and <https://cqcl.github.io/pytket/manual/index.html>. Both packages are open source and we welcome contributions or issues at the respective github repositories <https://github.com/CQCL/Qermit> and <https://github.com/CQCL/tket>.
+Documentation for Qermit can be found at:
+<p align=center><a href=https://qerm.it>qerm.it</a></p> 
+and for TKET at: 
+<p align=center><a href=https://cqcl.github.io/tket/pytket/api/index.html>https://cqcl.github.io/tket/pytket/api/index.html</a></p> 
+The respective manuals can be found at: 
+
+- <https://cqcl.github.io/Qermit/manual/> 
+- <https://cqcl.github.io/pytket/manual/index.html> 
+
+Both packages are open source and we welcome contributions or issues at the respective github repositories:
+
+- <https://github.com/CQCL/Qermit> 
+- <https://github.com/CQCL/tket>.
 
 ## Further Reading
 
